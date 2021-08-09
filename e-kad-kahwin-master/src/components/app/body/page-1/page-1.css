@@ -1,0 +1,20 @@
+.page1 {
+    background-image: url('../../../../assets/images/img5.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    height: 900px;
+}
+
+.name-font {
+	font-family: "Allura", cursive;
+	font-weight:normal;
+    font-size: 70px;
+    color: #2C7575;
+    
+}
+
+.name-modifier {
+	margin-top: -25px;
+    margin-bottom: -25px;
+}
